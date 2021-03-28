@@ -1,0 +1,10 @@
+ Le volume dans le lecteur C n'a pas de nom.
+ Le num‚ro de s‚rie du volume est 48FA-2EF1
+
+ R‚pertoire de C:\Users\hassan\Desktop\test
+
+28/03/2021  11:15    <DIR>          .
+28/03/2021  11:15    <DIR>          ..
+28/03/2021  11:15                 0 test1.txt
+               1 fichier(s)                0 octets
+               2 R‚p(s)  72ÿ432ÿ459ÿ776 octets libres
